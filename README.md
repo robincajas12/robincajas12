@@ -4,12 +4,12 @@
   - 🌱 I’m currently learning Data Science and Machine Learning
   -  💻 I'll be happy to work with you
 ## skills
- - Web development fronted/backend
- - Data Science and Machine Learning
+    Web development fronted/backend
+    Data Science and Machine Learning
   ### Languages
-    - English
-    - Spanish
+    English
+    Spanish
   ### Tools I work with
-    - Javascript 
-    - Python
-    - C#
+    Javascript 
+    Python
+    C#
