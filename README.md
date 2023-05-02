@@ -1,6 +1,15 @@
-👋 Hi, I’m @robincajas12
-## Mira mi sitio web
+# Hi there 👋
   - 👀 I’m interested in Data Science and Machine learning stuff
-  - 🌱 I’m currently learning python for Data Science and Machine Learning
-  - 💞️ I’m looking to collaborate on nowhere
-  - 📫 How to reach me robincajas2020@gmail.com
+  - 📚 Studying Ciencias de la computación at Universidad Central del Ecuador
+  - 🌱 I’m currently learning Data Science and Machine Learning
+  -  💻 I'll be happy to work with you
+## skills
+ - Web development fronted/backend
+ - Data Science and Machine Learning
+  ### Languages
+    - English
+    - Spanish
+  ### Tools I work with
+    - Javascript 
+    - Python
+    - C#
