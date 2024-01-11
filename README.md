@@ -10,6 +10,6 @@
     English
     Spanish
   ### Tools I work with
-    Javascript 
-    Python
-    C#
+    Javascript (full stack) 
+    Java
+    
