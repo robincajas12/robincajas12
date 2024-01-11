@@ -5,7 +5,6 @@
   -  💻 I'll be happy to work with you in some proyect idea! 
 ## skills
    - Web development fronted/backend
-   - Data Science and Machine Learning
   ### Languages
     English
     Spanish
