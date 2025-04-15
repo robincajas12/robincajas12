@@ -1,14 +1,7 @@
 # Hi there 👋
-  - 👀 I’m interested in Data Science and Machine learning stuff
-  - 📚 Studying "Ciencias de la computación" at Universidad Central del Ecuador
-  - 🌱 I’m currently learning Java
-  -  💻 I'll be happy to work with you in some proyect idea! 
+Here are some projects I've been working on
+Ippodake habit builder [play store](https://play.google.com/store/apps/details?id=com.proyect1_1&hl=en)
 ## skills
    - Web development fronted/backend
-  ### Languages
-    English
-    Spanish
-  ### Tools I work with
-    Javascript (full stack) 
-    Java
+   - React native
     
