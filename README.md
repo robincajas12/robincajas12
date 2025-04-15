@@ -9,7 +9,7 @@ A minimal, intuitive app designed to help you build better habits.
 📱 [Available on the Play Store](https://play.google.com/store/apps/details?id=com.proyect1_1&hl=en)  
 
 ### **Productive YouTube**  
-Enhance your focus by automatically redirecting YouTube Shorts and hiding homepage recommendations.  
+Automatic YouTube Shorts Redirection and hide home page recommendations
 🖥️ [Available on Firefox Add-ons](https://addons.mozilla.org/es-ES/firefox/addon/productive-youtube/)  
 
 ---
