@@ -1,8 +1,4 @@
-Here’s an improved version with better readability, structure, and a more engaging tone:  
-
----
-
-# 👋 Hi there!  
+# 👋 Hi there I am Robinson Cajas!  
 
 Welcome! Here are some projects I've been working on:  
 
@@ -22,5 +18,3 @@ Enhance your focus by automatically redirecting YouTube Shorts and hiding homepa
 
 - **Full-Stack Web Development** (Frontend & Backend)  
 - **React Native** for cross-platform mobile development  
-
-Let’s connect and build something great! 🚀
