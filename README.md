@@ -5,8 +5,7 @@ Welcome! Here are some projects I've been working on:
 ## 🚀 Projects in Production
 
 ### **Ippodake – Habit Builder**  
-A minimal, intuitive app designed to help you build better habits.  
-📱 [Available on the Play Store](https://play.google.com/store/apps/details?id=com.proyect1_1&hl=en)
+A minimal, intuitive app designed to help you build better habits by starting with small, manageable goals and gradually increasing them over time. It encourages consistency and long-term growth 📱 [Available on the Play Store](https://play.google.com/store/apps/details?id=com.proyect1_1&hl=en)
 
 ---
 
