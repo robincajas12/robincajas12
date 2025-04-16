@@ -2,7 +2,7 @@
 
 Welcome! Here are some projects I've been working on:
 
-### 🚀 Projects in Production
+## 🚀 Projects in Production
 
 ### **Ippodake – Habit Builder**  
 A minimal, intuitive app designed to help you build better habits.  
