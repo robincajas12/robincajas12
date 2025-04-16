@@ -5,7 +5,7 @@ Welcome! Here are some projects I've been working on:
 ## 🚀 Projects in Production
 
 ### **Ippodake – Habit Builder**  
-App made with react Native and Kotlin, Build better habits by starting with small, manageable goals and gradually increasing them over time. <br>
+App made with **React Native** and **Kotlin**, Build better habits by starting with small, manageable goals and gradually increasing them over time. <br>
 📱 [Available on the Play Store](https://play.google.com/store/apps/details?id=com.proyect1_1&hl=en)
 
 ---
