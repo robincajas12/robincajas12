@@ -11,13 +11,13 @@ Build better habits by starting with small, manageable goals and gradually incre
 ---
 
 ### **Productive YouTube**  
-Automatically redirects YouTube Shorts and hides homepage recommendations to help you stay focused.  
+Automatically redirects YouTube Shorts and hides homepage recommendations to help you stay focused. <br>
 🖥️ [Available on Firefox Add-ons](https://addons.mozilla.org/es-ES/firefox/addon/productive-youtube/)
 
 ---
 
 ### **SortFiles**  
-A simple desktop application that organizes your files—just provide a path and the app takes care of the rest.  
+A simple desktop application that organizes your files—just provide a path and the app takes care of the rest.  <br>
 🖥️ [Available on GitHub](https://github.com/robincajas12/SortFilesProyect/releases/tag/v1.0.0)
 
 ---
