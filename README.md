@@ -12,7 +12,4 @@ Welcome to my GitHub profile!
 
 ---
 
-## 📫 Let's Connect
-
-Feel free to check out my repositories or reach out if you'd like to collaborate!
 
