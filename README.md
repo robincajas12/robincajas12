@@ -1,9 +1,18 @@
-# 👋 Hi there! I'm Robinson Cajas  
+# 👋 Hi there! I'm **Robinson Cajas**
 
-## 🛠️ Skills  
+Welcome to my GitHub profile!
 
-- Mysql, Postgresql
-- React
-- Node.js
-- Java
 ---
+
+## 🛠️ Tech Stack
+
+- **Databases**: MySQL · PostgreSQL  
+- **Frontend**: React  
+- **Programming languages**: Node.js · Java  
+
+---
+
+## 📫 Let's Connect
+
+Feel free to check out my repositories or reach out if you'd like to collaborate!
+
