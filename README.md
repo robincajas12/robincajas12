@@ -2,7 +2,7 @@
 
 ## 🛠️ Skills  
 
-- **Mysql, Postgresql
+- Mysql, Postgresql
 - React
 - Node.js
 - Java
