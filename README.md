@@ -7,7 +7,7 @@ Computer Science student
 Learning to code for 5 years
 
 * 🌍  I'm based in Quito
-* 🚀  I'm currently working on [IppodakeORM](http://github.com/)
+* 🚀  I'm currently working on [Mysql ORM](https://github.com/ippodake/CatORM)
 * 🧠  I'm learning MongoDB, Design patterns
 
 ### Skills
