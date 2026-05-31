@@ -23,7 +23,7 @@ Java Backend Developer | Passionate about Software Engineering
 
 ### Featured Projects
 
-* **CatORM**: Custom ORM framework with two-level proxy architecture, automatic SQL generation, and object-relational mapping without external dependencies
+* **CatORM**: Custom ORM for java
 * **Ipppodake** : React native android app available in the <a href="">PlayStore as Ippodake: Habit Builder</a> 
 ---
 <p align="left">
