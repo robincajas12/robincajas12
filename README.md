@@ -8,19 +8,6 @@ My name is Cajas Robinson
 </div>
 
 ## Computer Science Student
-
-Java Backend Developer | Passionate about Software Engineering
-
-
-* 🌍  I'm based in Quito
-
-### Skills
-
-* Backend development with modern Java
-* Advanced metaprogramming and custom framework development
-* Design and implementation of architectural patterns
-* SOLID principles, inversion of control, separation of concerns
-
 ### Featured Projects
 
 * **CatORM**: Custom ORM for java
