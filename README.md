@@ -2,12 +2,6 @@
 ## My name is Cajas Robinson
 
 <br/>
-
-<a href="https://github.com/robincajas12/light-novel" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/%F0%9F%93%96%20Leer%20Novela-Click%20Aqu%C3%AD-FF69B4?style=for-the-badge&logo=readme&logoColor=white" alt="Leer Novela" height="45">
-</a>
-
-<br/>
 <br/>
 
 ## Computer Science Student
@@ -55,4 +49,8 @@
 <br/>
 
 ### Languages
-**Spanish:** * **English:** * **Japanese:** in progress
+**Spanish:** * **English:** 
+**Japanese:** in progress
+<a href="https://github.com/robincajas12/light-novel" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/%F0%9F%93%96%20%E3%81%93%E3%81%93%E3%81%8B%E3%82%89%E5%B0%8F%E8%AA%AC%E3%82%92%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%99-Click%20Aqu%C3%AD-FF69B4?style=for-the-badge&logo=readme&logoColor=white" alt="ここから小説を読む" height="45">
+</a>
