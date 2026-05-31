@@ -47,7 +47,7 @@
 <br/>
 
 ### Languages
-**Spanish:** * **English:** 
+**Spanish:**, **English** 
 </br>
 **Japanese:** in progress
 </br>
