@@ -55,4 +55,4 @@
 <br/>
 
 ### Languages
-* **Spanish:** * **English:** * **Japanese:** in progress
+**Spanish:** * **English:** * **Japanese:** in progress
