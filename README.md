@@ -1,8 +1,5 @@
-<div align="center">
-
 # Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ## My name is Cajas Robinson
-=========================
 
 <br/>
 
@@ -11,11 +8,9 @@
 </a>
 
 <br/>
-&nbsp;
+<br/>
 
 ## Computer Science Student
-
-</div>
 
 ### Featured Projects
 
@@ -26,7 +21,7 @@
 
 </blockquote>
 
-&nbsp;
+<br/>
 
 ### Tech Stack & Skills
 
@@ -43,7 +38,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="42" height="42" alt="Git" title="Git"/></a>
 </p>
 
-&nbsp;
+<br/>
 
 ### Socials
 
@@ -57,9 +52,7 @@
 </a>
 </p>
 
-&nbsp;
+<br/>
 
 ### Languages
-* **Spanish:** 
-* **English:** 
-* **Japanese:** in progress
+* **Spanish:** * **English:** * **Japanese:** in progress
