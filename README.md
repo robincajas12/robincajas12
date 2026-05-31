@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 My name is Cajas Robinson
 =========================
-
-## Computer Science Student
-
-Java Backend Developer | Passionate about Software Engineering
-
 <div align="center" style="margin: 20px 0;">
     <a href="https://github.com/robincajas12/light-novel" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/%F0%9F%93%96%20Leer%20Novela-Click%20Aqu%C3%AD-FF69B4?style=for-the-badge&logo=readme&logoColor=white" alt="Leer Novela" height="45">
     </a>
 </div>
+
+## Computer Science Student
+
+Java Backend Developer | Passionate about Software Engineering
+
 
 * 🌍  I'm based in Quito
 
