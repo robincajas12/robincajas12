@@ -8,6 +8,12 @@ My name is Cajas Robinson
 </div>
 
 ## Computer Science Student
+
+### 🗣️ Languages
+* **Spanish:** Native
+* **English:** Conversational / Professional
+* **Japanese:** Currently learning 🇯🇵
+
 ### Featured Projects
 
 * **CatORM**: Custom ORM for java
