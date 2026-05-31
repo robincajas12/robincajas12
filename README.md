@@ -6,7 +6,13 @@ My name is Cajas Robinson
 
 Java Backend Developer | Passionate about Software Engineering
 
-* 🌍  I'm based in Quito
+<div align="center" style="margin: 20px 0;">
+    <a href="https://github.com/robincajas12/light-novel" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/%F0%9F%93%96%20Leer%20Novela-Click%20Aqu%C3%AD-FF69B4?style=for-the-badge&logo=readme&logoColor=white" alt="Leer Novela" height="45">
+    </a>
+</div>
+
+* 🌍  I'm based in Quito
 
 ### Skills
 
@@ -27,4 +33,4 @@ Java Backend Developer | Passionate about Software Engineering
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/robinson-cajas-64194a254" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p> 
+<p align="left"> <a href="https://www.linkedin.com/in/robinson-cajas-64194a254" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
