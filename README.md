@@ -12,7 +12,7 @@
 <blockquote>
 
 * **CatORM**: Custom ORM for java
-* **Ipppodake** : React native android app available in the <a href="">PlayStore as Ippodake: Habit Builder</a> 
+* **Ipppodake** : React native android app available in the <a href="https://play.google.com/store/apps/details?id=com.proyect1_1&hl=en-US&pli=1">PlayStore as Ippodake: Habit Builder</a> 
 
 </blockquote>
 
