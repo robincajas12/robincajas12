@@ -12,8 +12,6 @@
 | Project | Description | Link / Status |
 | :--- | :--- | :--- |
 | **Ipppodake** | React Native Android app for habit building | [<img src="https://img.shields.io/badge/PlayStore-Google_Play-00457C?logo=googleplay&logoColor=white" alt="PlayStore Badge"/>](https://play.google.com/store/apps/details?id=com.proyect1_1&hl=en-US&pli=1) |
-| **CatORM** | Custom ORM for Java | [<img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white" alt="GitHub Badge"/>](https://github.com/robincajas12/CatORM) |
-| **virtual-fs-node** | A FUSE filesystem that turns Markdown into live, executable context for AI agents | [<img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white" alt="GitHub Badge"/>](https://github.com/robincajas12/virtual-fs-node) |
 
 <br/>
 
