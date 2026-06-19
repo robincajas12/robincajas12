@@ -1,6 +1,5 @@
 [![English](https://img.shields.io/badge/lang-en-red.svg)](./README.md)
 [![Español](https://img.shields.io/badge/lang-es-yellow.svg)](./README.es.md)
-[![日本語](https://img.shields.io/badge/lang-jp-blue.svg)](./README.jp.md)
 
 # ¡Hola! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
