@@ -13,7 +13,7 @@
 | Project      | Description                                                     | Link / Status                                                                                                                                                                                               |
 | :----------- | :-------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Ippodake** | React Native Android app for habit building                     | [<img src="https://img.shields.io/badge/PlayStore-Google_Play-00457C?logo=googleplay&logoColor=white" alt="PlayStore Badge"/>](https://play.google.com/store/apps/details?id=com.proyect1_1&hl=en-US&pli=1) |
-| **md2media** | Create podcasts and narrated videos from a single Markdown file | [<img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white" alt="GitHub Badge"/>](https://github.com/rscajasm/md2media)                                                   |
+| **MarkdownToMedia** | Create podcasts and narrated videos from a single Markdown file | [<img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white" alt="GitHub Badge"/>](https://github.com/rscajasm/md2media)                                                   |
 
 <br/>
 
